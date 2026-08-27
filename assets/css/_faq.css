@@ -9,8 +9,7 @@
  }
  .faq-section-wrapper .faq-right-side{
      box-shadow: 1px 5px 15px 2px rgba(68, 102, 242, 0.05)!important;
-     /* height: 310px; */
-     background-color: #fff;
+   background-color: rgba(0, 110, 200, 0.1);
      padding: 42px 35px;
      margin-left: 20px;
      margin-top: 130px;
@@ -22,23 +21,19 @@ margin-bottom: 5px;
   .faq-section-wrapper .faq-right-side h6 i{
     font-size: 25px;
     margin-left: 13px;
-    color:  #8787ff;
+   color: #65b3e4;
   vertical-align: -6px;
 }
   .faq-section-wrapper .faq-right-side p{
     font-size: 15px;
     padding-top: 5px;
-   /* margin-bottom: 55px; */
-  margin: 10px 39px 0 0;
+      margin: 10px 39px 0 0;
     color: #9c9797;
-  /* display: inline-block; */
 }
  .faq-section-wrapper .faq-left-side{
      margin-top: 130px;
  }
   .faq-section-wrapper .faq-left-side .tabs{
-    /* border-radius: 8px; */
-    /* background-color: #ffc412; */
     overflow: hidden;
     box-shadow: 1px 5px 15px 2px rgba(61, 94, 210, 0.05)!important;
   }
@@ -48,23 +43,20 @@ margin-bottom: 5px;
     }
  .faq-section-wrapper .faq-left-side .tab-label {
   padding: 12px;
-   background-color: #8787ff;
-/* width: 100%; */
+   background-color: rgba(0, 110, 200, 0.1);
+   color: #000000;
   cursor: pointer;
   display: block;
   font-size: 18px;
   transition: .5 ease;
  }
   .faq-section-wrapper .faq-left-side .tab-label:hover{
-background-color: #6b6bff; 
+background-color: #9ecfed; 
 }
  .faq-section-wrapper .faq-left-side .tab-label::after{
   content: '\276f';
-  /* width: 16px;
-  height: 16px; */
   text-align: center;
   float: left;
-  /* background-color: #000; */
   transition: .4s;
   padding: 2px 0 0 0;
  }
@@ -72,8 +64,7 @@ background-color: #6b6bff;
     height: 0px;
     background-color: #fff;
     transition: .5s ease;
-    /* padding: 10px; */
-    color: #616161;
+    color: #65b3e4;
     font-size: 16px;
   }
    .faq-section-wrapper .faq-left-side input:checked ~ .tab-content{
@@ -87,3 +78,4 @@ background-color: #6b6bff;
    .faq-section-wrapper .faq-left-side input{
     display: none;
    }
+ /* <!-- end faq section -->  */

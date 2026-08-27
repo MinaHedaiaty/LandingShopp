@@ -1,0 +1,70 @@
+/* <!-- start topic section -->  */
+ .topic-section-wrapper{
+    background-image: url("../img/img.back.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+ }
+  .topic-wrapper .card{
+    background-color: #fff;
+    margin-right: 14px;
+  }
+ .topic-wrapper .card-header{
+    overflow: hidden;
+ }
+.topic-wrapper .card-body{
+      margin: 30px 8px;
+}
+ .topic-wrapper .card-footer{
+    color: #000;
+
+ }
+.topic-wrapper .card-header img{
+    transition: .5s ease;
+   }
+  .topic-wrapper:hover img{
+    transform: scale(1.2) rotate(10deg);
+  }
+  .topic-wrapper .card{
+   box-shadow: 1px 5px 15px 2px rgba(68, 102, 242, 0.05)!important;
+  }
+   .topic-wrapper .card-body a{
+      font-size: 16px;
+      padding: 5px;
+   }
+ .topic-wrapper .card-body .post-date{
+   color:#000;
+   top: -52px;
+  right: 20px;
+  width: 30px;
+  text-align: center;
+  font-size: 17px;
+}
+ .topic-wrapper .card-body .post-date div:first-child{
+   background-color: #fff;
+   color:#000;
+   padding-bottom: 2px;
+
+ }
+  .topic-wrapper .card-body .post-date div:last-child{
+   background-color: #000;
+   color: #fff;
+   padding-bottom: 4px;
+  }
+   .topic-wrapper .card-body p{
+   color: #9c9797;
+    margin-top: 15px;
+    line-height: 30px;
+    font-size: 16px;
+ }
+  .topic-wrapper .card-footer ul{
+  border-top: 1px solid #dad8d8;
+ }
+ .topic-wrapper .card-footer ul li{
+   display: inline-block;
+ }
+  .topic-wrapper .card-footer ul li i,.topic-wrapper .card-footer ul li span{
+   color: #a39f9f;
+   font-size: 15px;
+   margin: 0 7px;
+  }

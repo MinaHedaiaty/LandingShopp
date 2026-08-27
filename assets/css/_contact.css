@@ -1,0 +1,43 @@
+.overflow-x-hidden {
+  overflow-x: hidden !important;
+}
+/* start contact section styles */
+.container-fluid-custom{
+    /* background-color: #000d1f; */
+    background-color: #001a3f;
+    color: #fff;
+    height: 40px;
+}
+.container-fluid-custom .contact{
+    font-size: 15px;
+}
+.container-fluid-custom .contact i{
+    color: orange;
+    vertical-align: -9px;
+    margin: 10px;
+}
+.container-fluid-custom .contact span{
+    color: #fff;
+    margin: 5px;
+    vertical-align: 1px;
+}
+.container-fluid-custom .social-media{
+    direction: ltr;
+}
+.container-fluid-custom .social-media i{
+ vertical-align: -9px;
+ /* margin-right: 3px; */
+ padding: 10px;
+ width: 20px;
+}
+.container-fluid-custom .social-media i:hover{
+    background-color: orange;
+    
+}
+.container-fluid-custom .social-media a{
+    color: #fff;
+}
+.container-fluid-custom .social-media .contr:hover{
+    color: #fff;
+}
+/* end contact section styles */

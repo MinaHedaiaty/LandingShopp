@@ -9,10 +9,8 @@
 @import '_faq.css';
 @import '_footer.css';
 @font-face {
-    font-family:  Vazir-Modium;
-    src: url(..fonts/Vazir-Modium.eot) format("eot")
-    url(../fonts/Vazir-Modium.woff) format("woff")
-    url(../fonts/Vazir-Modium.woff2)format("woff2");
-    font-weight: 700;
-    font-style: normal;
+    font-family: FiraCode;
+    src: url(..fonts/Vazir-Modium.eot) format("eot"),
+    url(../fonts/FiraCode-Light.ttf) format("Light"),
+    url(../fonts/FiraCode-Bold.ttf)format("Bold"),
 }

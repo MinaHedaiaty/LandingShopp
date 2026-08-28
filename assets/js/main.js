@@ -1,3 +1,4 @@
+import '../fonts';
 function myFunc(){
   var x = document.getElementById("mynav");
   if(x.className === "nav"){

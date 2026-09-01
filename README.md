@@ -4,7 +4,7 @@ In this project I use Responsive and Grid to build this landing page inspired by
 
 [Live preview](http://127.0.0.1:5502/assets/index.html)
 
-<img src="./img/photo priviow shopp land page.png">
+<img src="https://github.com/MinaHedaiaty/LandingShopp/blob/main/photo%20priviow%20shopp%20land%20page.png?raw=true">
 
 ## 👩🏻‍💻 &nbsp; Languages used for this page
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)

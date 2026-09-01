@@ -3,7 +3,7 @@
 }
 /* start contact section styles */
 .active{
-    border-bottom: 2px solid orange;
+    border-bottom: 3px solid #68c0f7;
 }
 .nav{
     background-color: #fff;
@@ -24,10 +24,12 @@ float: right;
   padding: 10px 14px;
   font-size: 16px;
   line-height: 33px;
+  transition: all ease 0.30s;
 }
-.nav a:hover{
-border-bottom: 1px solid orange;
+.nav a.hover:hover{
+border-bottom: 2px solid #68c0f7;
 }
+
 .icon {
     display: none;
 }

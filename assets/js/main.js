@@ -6,5 +6,5 @@ function myFunc(){
   }else{
            x.className = "nav";
 
-      }
+      } 
 }

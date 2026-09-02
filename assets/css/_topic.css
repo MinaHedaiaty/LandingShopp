@@ -31,7 +31,12 @@
    .topic-wrapper .card-body a{
       font-size: 16px;
       padding: 5px;
+        /* color: #519ac8; */
+        color:#6aa1c4;
    }
+      .topic-wrapper .card-body a:hover{
+        color: #000;
+      }
  .topic-wrapper .card-body .post-date{
    color:#000;
    top: -52px;
